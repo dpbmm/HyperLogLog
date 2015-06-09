@@ -6,6 +6,8 @@ See [original paper](algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf) by Phil
 
 We intend to implement a [revised version](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/40671.pdf) of this algorithm by Stefan Heule, Marc Nunkesser, and Alexander Hall.
 
+See http://research.neustar.biz/2013/03/25/hyperloglog-engineering-choosing-the-right-bits/.
+
 This coding project is collaborative work among Jawad Stouli, David Branner, and Himanish Kushary.
 
 [end]
